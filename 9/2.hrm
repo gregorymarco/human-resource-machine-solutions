@@ -1,0 +1,74 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    JUMPZ    b
+    JUMP     a
+b:
+    OUTBOX  
+c:
+    INBOX   
+    JUMPZ    d
+    JUMP     c
+d:
+    OUTBOX  
+e:
+    INBOX   
+    JUMPZ    f
+    JUMP     e
+f:
+    OUTBOX  
+g:
+    INBOX   
+    JUMPZ    h
+    JUMP     g
+h:
+    OUTBOX  
+i:
+    INBOX   
+    JUMPZ    j
+    JUMP     i
+j:
+    OUTBOX  
+l:
+    INBOX   
+    JUMPZ    m
+    JUMP     l
+m:
+    OUTBOX  
+n:
+    INBOX   
+    JUMPZ    o
+    JUMP     n
+o:
+    OUTBOX  
+p:
+    INBOX   
+    JUMPZ    q
+    JUMP     p
+q:
+    OUTBOX  
+r:
+    INBOX   
+    JUMPZ    s
+    JUMP     r
+s:
+    OUTBOX  
+t:
+    INBOX   
+    JUMPZ    u
+    JUMP     t
+u:
+    OUTBOX  
+v:
+    INBOX   
+    JUMPZ    w
+    JUMP     v
+w:
+    OUTBOX  
+x:
+    INBOX   
+    JUMPZ    y
+    JUMP     x
+y:
+    OUTBOX  
